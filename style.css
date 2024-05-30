@@ -1,0 +1,45 @@
+body {
+  font-family: cursive;
+  margin: 0;
+  padding: 20px;
+  background-color: #303600;
+  color: #f5f5f5;
+}
+
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px; }
+
+
+img {
+  display: block;
+  margin:  auto;
+  max-width: 30%;
+}
+
+
+p {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+a {
+  display: inline-block;
+  padding: 10px 16px; 
+  background-color: white; 
+  color: black; 
+  text-decoration: none; 
+  margin: 0 8px; 
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+ul {text-align: center; }
+
+li {
+  display: inline-block;
+  }
